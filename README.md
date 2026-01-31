@@ -1,4 +1,4 @@
-# backend-learning
+# Backend-learning
 My journey to become a strong backend developer
 
 # Strong Backend Learning Journey
